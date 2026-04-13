@@ -1,0 +1,6 @@
+curl https://api.github.com/repos/mayurshinde6636/mcino-Introduction-to-Git-and-GitHub
+
+StatusCode        : 200
+StatusDescription : OK
+Content           : {"id":1209443341,"node_id":"R_kgDOSBakDQ","name":"mcino-Introduction-to-Git-and-GitHub","full_name":"mayurshinde6636/mcino-Introduction-to-Git-and-GitHub","private":false,"fork":true}
+RawContent        : HTTP/1.1 200 OK
